@@ -307,6 +307,8 @@ Ce projet est un travail pratique éducatif.
 
 ---
 
+[Tp14.webm](https://github.com/user-attachments/assets/c5c2478b-8fc9-4900-8df0-09acfc3ae20c)
+
 ## 📚 Ressources
 
 - [Documentation Android](https://developer.android.com/)
